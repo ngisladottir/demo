@@ -3,7 +3,7 @@
   <role uuid="_qucXoHAAEeSk24oMIozLgA" name="insertfree" customType="insertfree">
     <domain uuid="_qucXoXAAEeSk24oMIozLgA" name="local" visibility="300">
       <typeSet uuid="_GINPIKTqEea8d6P1JTl01w" bitSet="65536"/>
-      <values uuid="_zXJqcLieEealD8oFD4NNGA" name="link_owner_component" editable="false" visibility="300"/>
+      <values uuid="_-84-gLieEealD8oFD4NNGA" name="link_owner_component" editable="false" visibility="300"/>
     </domain>
   </role>
   <viewPointsTwoD uuid="_x_QZwElnEeSga5qFy3girQ" name="ViewPoint_initial" fieldOfView="784" isInitial="true" positionX="200" positionY="200"/>
