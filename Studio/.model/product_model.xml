@@ -14,6 +14,7 @@
     <values uuid="_41X40EluEeSo87hK2eA7dQ" name="red" editable="false" visibility="300"/>
     <values uuid="_5dqA0EluEeSo87hK2eA7dQ" name="blue" editable="false" visibility="300"/>
     <values uuid="_6ajt8EluEeSo87hK2eA7dQ" name="green" editable="false" visibility="300"/>
+    <variables xsi:type="comp:DeclaredVariable" href="components/_q8cPEFc5EeWo-40Qyxiobw.xml#_cvwPULrZEealD8oFD4NNGA"/>
   </domains>
   <features deletable="false" uuid="N65557" name="DefaultCursorColor" color="(255,151,0,255)"/>
   <features deletable="false" uuid="N65562" name="DefaultTransparent" color="(0,0,0,0)"/>

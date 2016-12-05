@@ -10,18 +10,28 @@
       <typeSet uuid="_GC-J0qTqEea8d6P1JTl01w" bitSet="10"/>
     </domain>
   </variables>
-  <cursorTwoD uuid="_5hDdIFc7EeWo-40Qyxiobw" name="Cursor3" twoDElementsColor="_c3-j4Fc7EeWo-40Qyxiobw _f9pUUFc7EeWo-40Qyxiobw">
+  <variables xsi:type="comp:DeclaredVariable" uuid="_cvwPULrZEealD8oFD4NNGA" name="color" visibility="800" initValue="blue">
+    <domain uuid="_cvwPUbrZEealD8oFD4NNGA" name="local" visibility="300">
+      <typeSet uuid="_cvwPUrrZEealD8oFD4NNGA" bitSet="131072"/>
+    </domain>
+    <domainGlobal href="../product_model.xml#_2ZqEUEluEeSo87hK2eA7dQ"/>
+  </variables>
+  <cursorTwoD uuid="_5hDdIFc7EeWo-40Qyxiobw" name="Cursor3" twoDElementsColor="_f9pUUFc7EeWo-40Qyxiobw">
     <onColor href="../product_model.xml#N65557"/>
   </cursorTwoD>
   <geometry deletable="false" uuid="_q8cPEVc5EeWo-40Qyxiobw" name="root">
-    <twoDElement xsi:type="comp:TwoDBox" uuid="_c3-j4Fc7EeWo-40Qyxiobw" name="Box3" height="50.0" width="50.0" cursorsUsingMeForColor="_5hDdIFc7EeWo-40Qyxiobw" strokeWidth="2">
-      <facets xsi:type="comp:TwoDDynamicSizeFacet" uuid="_GDAmEKTqEea8d6P1JTl01w" heightDynamic="height" widthDynamic="width"/>
-      <bgColor href="../product_model.xml#N65567"/>
-      <color href="../product_model.xml#N65572"/>
-    </twoDElement>
     <twoDElement xsi:type="comp:TwoDText" uuid="_f9pUUFc7EeWo-40Qyxiobw" name="Text3" translation="(8,24)" cursorsUsingMeForColor="_5hDdIFc7EeWo-40Qyxiobw" text="Link" fontSize="16">
       <color href="../product_model.xml#N65572"/>
       <bgColor href="../product_model.xml#N65562"/>
+    </twoDElement>
+    <twoDElement xsi:type="comp:TwoDSVGImportFile" uuid="_Vjfc8LrZEealD8oFD4NNGA" name="Interactive_SVG" checksum="4be8fc19061f2e2d4f87ac5be9734af19c5e4557">
+      <file href="../../model.build#_707XkLrZEealD8oFD4NNGA"/>
+      <handles uuid="_932RkLrZEealD8oFD4NNGA" name="path17083" visualId="path17083">
+        <fields xsi:type="comp:Field" uuid="_932RkbrZEealD8oFD4NNGA" name="fillManipulation" fieldId="fill" variableReference="color" target="css"/>
+      </handles>
+      <handles uuid="_AxDTULraEealD8oFD4NNGA" name="rect17081" visualId="rect17081">
+        <fields xsi:type="comp:Field" uuid="_AxDTUbraEealD8oFD4NNGA" name="heightManipulation" fieldId="height" variableReference="height" target="xml"/>
+      </handles>
     </twoDElement>
     <units uuid="_fdGZwFdAEeWo-40Qyxiobw" name="move_next">
       <facets xsi:type="comp:GeoUnitLineJointFacet" uuid="_GDCbQKTqEea8d6P1JTl01w" variable="width"/>
