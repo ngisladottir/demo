@@ -24,13 +24,14 @@
       <color href="../product_model.xml#N65572"/>
       <bgColor href="../product_model.xml#N65562"/>
     </twoDElement>
-    <twoDElement xsi:type="comp:TwoDSVGImportFile" uuid="_Vjfc8LrZEealD8oFD4NNGA" name="Interactive_SVG" checksum="4be8fc19061f2e2d4f87ac5be9734af19c5e4557">
+    <twoDElement xsi:type="comp:TwoDSVGImportFile" uuid="_Vjfc8LrZEealD8oFD4NNGA" name="Interactive_SVG" checksum="b96d999dfb6912109c5f251decc2c0cb83c89b60">
       <file href="../../model.build#_707XkLrZEealD8oFD4NNGA"/>
       <handles uuid="_932RkLrZEealD8oFD4NNGA" name="path17083" visualId="path17083">
         <fields xsi:type="comp:Field" uuid="_932RkbrZEealD8oFD4NNGA" name="fillManipulation" fieldId="fill" variableReference="color" target="css"/>
       </handles>
       <handles uuid="_AxDTULraEealD8oFD4NNGA" name="rect17081" visualId="rect17081">
         <fields xsi:type="comp:Field" uuid="_AxDTUbraEealD8oFD4NNGA" name="heightManipulation" fieldId="height" variableReference="height" target="xml"/>
+        <fields xsi:type="comp:Field" uuid="_lWF9kLraEealD8oFD4NNGA" name="widthManipulation" fieldId="width" variableReference="width" target="xml"/>
       </handles>
     </twoDElement>
     <units uuid="_fdGZwFdAEeWo-40Qyxiobw" name="move_next">

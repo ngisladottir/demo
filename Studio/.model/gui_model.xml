@@ -69,6 +69,7 @@
       <panels uuid="_fYFUEGq1EeSU5fRCDlCvNA" name="PanelSettings_link_component" style="_-kp9EFc_EeWo-40Qyxiobw" toa="link_component">
         <items xsi:type="gui:TIOStandardItem" uuid="_PBB5kG_5EeSb6NXyjhnDPg" name="02_height" editable="false" order="2" style="_bbutcW_-EeSk24oMIozLgA" text="Height:" varName="height" type="INPUTFIELD"/>
         <items xsi:type="gui:TIOStandardItem" uuid="_GYzsQHAJEeSePcy3DK4xYQ" name="03_width" editable="false" order="3" style="_bbutcW_-EeSk24oMIozLgA" text="Width:" varName="width" type="INPUTFIELD"/>
+        <items xsi:type="gui:TIOStandardItem" uuid="_pwnoILraEealD8oFD4NNGA" name="04_color" editable="false" order="4" style="_bbutcW_-EeSk24oMIozLgA" text="Color" varName="color"/>
       </panels>
     </panels>
   </guiUnits>
